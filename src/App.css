@@ -1,0 +1,68 @@
+/* .App {
+  color:black;
+  text-align: center;
+  size: 7cm;
+  margin-top: 3cm;
+  margin-bottom: 3cm;
+  font : oblique 14px Arial, Helvetica, sans-serif;
+  height: 100%;
+}
+ */
+
+/* button{
+  color: black;
+  size: 26pt;
+  text-align: center;
+  background-color:dodgerblue;
+  width: 4cm;
+  height: 1cm;
+  float:center;
+}
+
+h1{
+  color: darkblue;
+ size:30px;
+ text-align: center;
+}
+.label{
+  color: rgb(129, 46, 184);
+  size: 35px;
+  font-style: italic;
+
+}
+.Box{
+  width: 2mm;
+  height: 1cm;
+}
+.check{
+  color: red;
+} */
+
+.con{
+  margin-top: 2cm;
+  margin-left: 2cm;
+}
+
+.sous-titre{
+
+  color:brown;
+   font-size: 20px;
+
+}
+.usern{
+  color:black;
+  font-size: 20px;
+}
+
+.userC{
+  color: black;
+  font-size: 15px ;
+}
+img{
+  width: 7cm;
+  height: 5cm;
+}
+.userd{
+  font-size: 18px;
+  color:black
+}
